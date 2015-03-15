@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title></title>
+    <meta content="">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+  </head>
+  <body bgcolor="#303030">
+	<center>
+	<form class="body"  name="inicio" method="post" action="uploader.php">
+	<input type="submit" value="Aqrquivo">
+	</center>
+  </body>
+</html>
